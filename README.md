@@ -10,6 +10,17 @@ Think of it like turning any Android phone into a **wireless Bluetooth-like spea
 
 ---
 
+---
+
+## 📥 Download
+
+Get the latest signed APK of **EchoLink**:
+
+[![Download EchoLink](https://img.shields.io/badge/⬇️_Download-EchoLink-green?style=for-the-badge)](https://github.com/anandkulkarni428/EchoLink/releases/download/v1.0.0/echolink-v1.0.0.apk)
+
+👉 Clicking the button will start the APK download automatically.
+
+
 ## ✨ Features
 
 - 🎵 **Live Audio Streaming**  
