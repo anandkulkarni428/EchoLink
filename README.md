@@ -99,9 +99,22 @@ Make sure you are running on **Android 10+** devices.
 ```bash
 git clone https://github.com/anandkulkarni428/EchoLink.git
 cd echolink
+```
 
-## 📧 Contact / Issues
+---
 
-🐛 [Report an Issue](https://github.com/anandkulkarni/echolink/issues)  
-⭐ Star the repo if you find it useful!
+## 📧 Contact & 🐛 Issues
+
+👤 **Anand Kulkarni** — [LinkedIn](https://www.linkedin.com/in/anand-kulkarni-418249188/)  
+
+Found a bug or have a feature request? 👉 [Open an Issue](https://github.com/anandkulkarni428/EchoLink/issues)  
+
+⭐ Like the project? Don’t forget to **Star** the repo!
+
+---
+
+## 📖 License
+
+Licensed under the **Apache License 2.0** — see [LICENSE](LICENSE).
+
 
