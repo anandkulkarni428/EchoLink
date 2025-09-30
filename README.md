@@ -1,7 +1,7 @@
 # 📡 EchoLink – Turn Your Phone Into a Wireless Speaker
 
 <p align="center">
-  <img src="app/src/main/res/drawable/echo_logo.png" alt="EchoLink Logo" width="120"/>
+  <img src="docs/logo.png" alt="EchoLink Logo" width="120"/>
 </p>
 
 **EchoLink** is an Android app (built with **Jetpack Compose + MVVM**) that lets one device **Host** and other devices **Join** to share and play live audio over Wi-Fi (or hotspot).
@@ -97,5 +97,5 @@ Clone the repo and open in Android Studio (Giraffe+).
 Make sure you are running on **Android 10+** devices.
 
 ```bash
-git clone https://github.com/<your-username>/echolink.git
+git clone https://github.com/anandkulkarni428/EchoLink.git
 cd echolink
