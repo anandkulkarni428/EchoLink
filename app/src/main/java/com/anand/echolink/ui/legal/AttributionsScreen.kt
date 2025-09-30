@@ -1,4 +1,3 @@
-// file: ui/legal/AttributionsScreen.kt
 package com.anand.echolink.ui.legal
 
 import androidx.compose.foundation.Image
@@ -171,9 +170,9 @@ fun AttributionsScreen(
 
             // Contact / Policy / Source
             SectionHeaderIcon("Links", Icons.Outlined.Public)
-            LinkLine("Project Homepage / Repository", "https://example.com/echolink") // TODO replace
-            LinkLine("Privacy Policy (if applicable)", "https://example.com/echolink/privacy") // TODO replace
-            LinkLine("Issue Reports / Contact", "mailto:support@example.com") // TODO replace
+            LinkLine("Project Homepage", "https://github.com/anandkulkarni428/EchoLink")
+            LinkLine("LinkedIn", "https://www.linkedin.com/in/anand-kulkarni-418249188/")
+            LinkLine("Issue Reports", "https://github.com/anandkulkarni428/EchoLink/issues")
 
             Spacer(Modifier.height(8.dp))
             Text(
