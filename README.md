@@ -20,6 +20,38 @@ Get the latest signed APK of **EchoLink**:
 
 👉 Clicking the button will start the APK download automatically.
 
+## 📖 How to Use
+
+1. **Download & Install**
+  - Grab the latest signed APK from the [📥 Download section](#-download).
+  - Install it on your Android device (Android 10+ required).
+
+2. **Choose a Role**
+  - Open the app → You’ll see the **Role Picker**.
+  - Select:
+    - 🎤 **Host** → This phone will capture and stream audio.
+    - 🎧 **Join** → This phone will receive and play the audio.
+
+3. **As Host**
+  - Grant **Record Audio** and **Media Projection** permissions.
+  - Start hosting → Your phone begins capturing audio (e.g., YouTube, Spotify).
+  - Nearby devices can now discover and connect.
+
+4. **As Receiver**
+  - Make sure you’re on the **same Wi-Fi / Hotspot** as the Host.
+  - Tap **Join** → Pick the Host from the list.
+  - Enjoy synced playback with the Host 🎶.
+
+5. **Switch Roles Anytime**
+  - Go back to the Role Picker to change between Host and Join.
+
+---
+
+⚠️ **Notes**
+- Works best over stable Wi-Fi / hotspot.
+- Some DRM-protected apps (Netflix, Prime Video, etc.) may block capture.
+
+
 
 ## ✨ Features
 
