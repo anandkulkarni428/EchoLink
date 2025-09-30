@@ -99,3 +99,9 @@ Make sure you are running on **Android 10+** devices.
 ```bash
 git clone https://github.com/anandkulkarni428/EchoLink.git
 cd echolink
+
+## 📧 Contact / Issues
+
+🐛 [Report an Issue](https://github.com/anandkulkarni/echolink/issues)  
+⭐ Star the repo if you find it useful!
+
